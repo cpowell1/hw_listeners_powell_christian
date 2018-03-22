@@ -24,3 +24,8 @@ footer {
     margin: auto;
     border: 1px solid #555555;
 }
+
+p {
+    font-size: 1rem;
+    font-family: 'Courgette';
+}
