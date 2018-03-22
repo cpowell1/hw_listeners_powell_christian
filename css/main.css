@@ -29,3 +29,9 @@ p {
     font-size: 1rem;
     font-family: 'Courgette';
 }
+
+#pink {
+    font-family: 'Courgette';
+    color: white;
+    color: #555555;
+}
