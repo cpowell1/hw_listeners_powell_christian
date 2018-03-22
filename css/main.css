@@ -1,0 +1,41 @@
+body {
+    background-color: #555555;
+}
+
+.container {
+    margin: auto;
+    background-color: white;
+    width: 80%;
+}
+
+form {
+    width: 100%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-top: 10%;
+}
+
+input {
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+
+label {
+  text-align: center;
+  margin: auto;
+  padding: 2%;
+  display: block;
+}
+
+textarea {
+  display: block;
+  margin: auto;
+}
+
+.submit {
+  display: block;
+  width: 40%;
+  margin: auto;
+  margin-top: 5%;
+}
